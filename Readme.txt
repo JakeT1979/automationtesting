@@ -1,0 +1,1 @@
+Tämä testauksen harjoitteluun tehty harjoittelu repo.
